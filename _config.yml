@@ -2,3 +2,4 @@ name: Carlos León
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 include: ['blog', 'about' ]
+host: carlosld.com
