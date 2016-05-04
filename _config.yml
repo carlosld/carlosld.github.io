@@ -2,3 +2,5 @@ name: Carlos León
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 include: ['blog', 'about' ]
+gems:
+  - jekyll-sitemap
