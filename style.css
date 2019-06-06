@@ -16,18 +16,12 @@
         center 
         no-repeat;
     background-size: cover;
+    display: grid;
+    place-items: center;
 }
 
 .wrapper {
     color: #fff;
-    position: relative;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: left; 
-    top: 9rem;   
 }
 
 .wrapper h1 {
@@ -38,4 +32,5 @@
 .wrapper p {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2rem;
+    text-align: end;
 }
